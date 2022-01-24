@@ -1,0 +1,21 @@
+input{
+    margin: 10px;
+}
+h3{
+    margin-top:20px;
+    margin-bottom: 20px;
+}
+#result{
+    border: 1px rgb(128, 56, 4);
+    background-color: rgb(255, 108, 4);
+    padding: 10px;
+    border-radius: 10px;
+    width: 50%;
+}
+#sort_result{
+    border: 1px rgb(5, 117, 151);
+    background-color: rgb(4, 255, 255);
+    padding: 10px;
+    border-radius: 10px;
+    width: 50%;
+}
